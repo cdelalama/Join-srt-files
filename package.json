@@ -1,0 +1,25 @@
+{
+  "name": "join-srt-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc -w --skipLibCheck",
+    "dev": "nodemon --exec ts-node -- ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdelalama/Join-srt-files.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdelalama/Join-srt-files/issues"
+  },
+  "homepage": "https://github.com/cdelalama/Join-srt-files#readme",
+  "devDependencies": {
+    "@types/node": "^20.5.9"
+  }
+}

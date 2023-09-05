@@ -1,0 +1,271 @@
+2432
+00:05:17,000 --> 00:05:22,000
+de una geotermia en tu casa es importante hacerlo al inicio de la obra?
+
+2433
+00:05:22,000 --> 00:05:28,000
+Lo trato yo en mi informe. La geotermia requiere de la utilización del terreno
+
+2434
+00:05:28,000 --> 00:05:32,000
+porque hay que aprovechar la temperatura que tiene en unas capas del subsuelo
+
+2435
+00:05:32,000 --> 00:05:36,000
+que es muy favorable luego para que circulen una serie de fluidos
+
+2436
+00:05:36,000 --> 00:05:39,000
+y que el salto térmico sea menor.
+
+2437
+00:05:39,000 --> 00:05:42,000
+Bueno, la parte técnica, pero claro, esa intervención,
+
+2438
+00:05:42,000 --> 00:05:46,000
+puesto que depende del terreno, hay que hacerla en la fase inicial de las obras
+
+2439
+00:05:46,000 --> 00:05:49,000
+que serían el movimiento de tierras y cimentación.
+
+2440
+00:05:49,000 --> 00:05:54,000
+Si uno se va más allá de ese periodo o de esas fases de la obra
+
+2441
+00:05:54,000 --> 00:05:58,000
+no es posible realizar la instalación.
+
+2442
+00:05:58,000 --> 00:06:05,000
+¿Recuerda la documentación que usted ha revisado del procedimiento,
+
+2443
+00:06:05,000 --> 00:06:11,000
+actas de obra, correos electrónicos, informes, etcétera?
+
+2444
+00:06:11,000 --> 00:06:16,000
+¿Ha podido ver si Tillman tenía algún plazo previsto
+
+2445
+00:06:16,000 --> 00:06:21,000
+para la aportación de los presupuestos de los precios contradictorios?
+
+2446
+00:06:21,000 --> 00:06:24,000
+Claro, eso es un tema interesante porque sí que es verdad
+
+2447
+00:06:24,000 --> 00:06:27,000
+que en el contrato se establece que tiene que haber tres meses
+
+2448
+00:06:27,000 --> 00:06:32,000
+para presentar modificaciones, pero ahí muere la circunstancia.
+
+2449
+00:06:32,000 --> 00:06:35,000
+Entonces, esas modificaciones tienen que ser objeto
+
+2450
+00:06:35,000 --> 00:06:41,000
+de la elaboración de un presupuesto y luego de la aceptación de ese presupuesto.
+
+2451
+00:06:41,000 --> 00:06:46,000
+Yo creo que en ese sentido en el contrato hay una laguna
+
+2452
+00:06:46,000 --> 00:06:49,000
+porque una persona podría presentar las modificaciones
+
+2453
+00:06:49,000 --> 00:06:53,000
+un minuto antes de las doce horas de los tres meses
+
+2454
+00:06:53,000 --> 00:06:59,000
+y no poder procederse a aceptar esas modificaciones
+
+2455
+00:06:59,000 --> 00:07:01,000
+puesto que no haya elaborado un presupuesto
+
+2456
+00:07:01,000 --> 00:07:04,000
+y porque eso no ha sido aprobado por ninguna de las partes.
+
+2457
+00:07:04,000 --> 00:07:12,000
+¿Tillman enviaba estos presupuestos de estos precios contradictorios en plazo
+
+2458
+00:07:12,000 --> 00:07:15,000
+según la documentación que usted ha podido revisar?
+
+2459
+00:07:15,000 --> 00:07:22,000
+Es que ya digo que lo que existe es una no comunicación en plazo de las variaciones.
+
+2460
+00:07:22,000 --> 00:07:27,000
+Entonces, habrá precios que obviamente no hayan podido ser presentados
+
+2461
+00:07:27,000 --> 00:07:32,000
+antes de los tres meses puesto que las variaciones han ido más allá de esos tres meses.
+
+2462
+00:07:32,000 --> 00:07:38,000
+¿Recuerda si Tillman tuvo algún tipo de problema en la documentación que usted ha podido revisar
+
+2463
+00:07:38,000 --> 00:07:46,000
+respecto a indefinición de las partidas que los cooperativistas querían mejorar,
+
+2464
+00:07:46,000 --> 00:07:50,000
+modificar para la elaboración de esos presupuestos?
+
+2465
+00:07:50,000 --> 00:07:54,000
+Sí, y es una cosa habitual.
+
+2466
+00:07:54,000 --> 00:07:57,000
+Cuando uno está realizando su propia vivienda
+
+2467
+00:07:57,000 --> 00:08:01,000
+que existan una serie de modificaciones que tengan que ser aclaradas,
+
+2468
+00:08:01,000 --> 00:08:04,000
+idas y venidas, forma parte del proceso habitual.
+
+2469
+00:08:04,000 --> 00:08:08,000
+Lo complejo es encajarlo en los tres meses.
+
+2470
+00:08:08,000 --> 00:08:17,000
+¿Recuerda el problema que tuvo Tillman con el centro de transformación del chalé número L?
+
+2471
+00:08:17,000 --> 00:08:18,000
+Sí.
+
+2472
+00:08:18,000 --> 00:08:23,000
+¿El problema deriva de la propia existencia del centro de transformación
+
+2473
+00:08:23,000 --> 00:08:27,000
+o de la distribución que quería el propietario?
+
+2474
+00:08:28,000 --> 00:08:32,000
+De la posición del centro de transformación en gran medida
+
+2475
+00:08:32,000 --> 00:08:38,000
+y luego también en parte de la distribución del propietario de ambas circunstancias.
+
+2476
+00:08:38,000 --> 00:08:41,000
+Eso es un claro hecho sobrevenido.
+
+2477
+00:08:43,000 --> 00:08:51,000
+¿De qué forma este problema que surge con el chalé L influye en el retraso de la obra?
+
+2478
+00:08:52,000 --> 00:08:59,000
+Es una circunstancia que va a requerir que se empleen más medios materiales
+
+2479
+00:08:59,000 --> 00:09:02,000
+y más medios personales para solventar esa circunstancia,
+
+2480
+00:09:02,000 --> 00:09:08,000
+con independencia de los cómputos parciales de los plazos que se hagan en ese periodo.
+
+2481
+00:09:08,000 --> 00:09:14,000
+En el contrato, como en todos, se establecen unos plazos de ejecución,
+
+2482
+00:09:14,000 --> 00:09:20,000
+pero no se vinculan los cumplimientos de esos plazos a fases concretas.
+
+2483
+00:09:21,000 --> 00:09:25,000
+De cara a la determinación posterior de una penalización,
+
+2484
+00:09:25,000 --> 00:09:29,000
+es el cómputo del retraso general de la obra,
+
+2485
+00:09:29,000 --> 00:09:34,000
+no el análisis particular de una circunstancia determinada en un punto de la obra
+
+2486
+00:09:34,000 --> 00:09:37,000
+como para imputar una penalización.
+
+2487
+00:09:39,000 --> 00:09:43,000
+Como consecuencia de ese cambio de distribución del chalé L,
+
+2488
+00:09:43,000 --> 00:09:46,000
+se deberían elaborar nuevos planos por la DF
+
+2489
+00:09:46,000 --> 00:09:52,000
+y aprobar esa distribución por parte del socio que quería ese cambio de distribución?
+
+2490
+00:09:52,000 --> 00:09:54,000
+Sí, por supuesto.
+
+2491
+00:09:54,000 --> 00:09:57,000
+¿Nos puede indicar si en la documentación que usted ha revisado
+
+2492
+00:09:57,000 --> 00:10:03,000
+hubo retrasos también sobre esos planos, esa aceptación por parte del socio?
+
+2493
+00:10:03,000 --> 00:10:06,000
+Sí, hubo también retardo en la aceptación.
+
+2494
+00:10:06,000 --> 00:10:10,000
+¿En qué fase de la obra estamos con estos problemas?
+
+2495
+00:10:10,000 --> 00:10:15,000
+Pues estamos en una fase inicial de la obra.
+
+2496
+00:10:17,000 --> 00:10:25,000
+Una vez que se obtienen esos planos por parte de la constructora
+
+2497
+00:10:25,000 --> 00:10:31,000
+y se acepta la distribución por parte del socio,
+
+2498
+00:10:31,000 --> 00:10:34,000
+¿qué hecho ocurrió?
+
+
+
+
